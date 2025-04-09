@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p150909-e1580600.adobeaemcloud.com/bin/franklin.delivery/samgec123/aem-eds/main"
+    type: "markup"
+    suffix: ".html"
